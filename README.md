@@ -4,7 +4,6 @@
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
     
-    [![Spotify](https://spotify-playlist-jade.vercel.app/api/spotify)](https://open.spotify.com/user/tannabater)
 
   </td>
   <td width="50%">
